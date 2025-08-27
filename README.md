@@ -31,10 +31,11 @@ A full-featured subscription management API built with Node.js, Express, and Mon
 
    ```bash
    git clone https://github.com/Josephat-S/subscription-tracker-using-express.js.git
-   cd subscription-tracker-using-express.js```
+   cd subscription-tracker-using-express.js
 2. Install dependencies:
    ```bash
-   npm install ```
+   npm install
 3. Envirnment:
    Create a file called **.env.example.local**, and create variables as listed in *.env.development.example**
    
+
